@@ -13,4 +13,6 @@ The data can be found here: https://www.kaggle.com/c/hw1-wine-goodness-cse512-sp
 2. python 2.7
 3. numpy
 4. pandas
-5. wine data from kaggle https://www.kaggle.com/c/hw1-wine-goodness-cse512-spr18/data
+5. matplotlib
+6. scipy
+7. wine data from kaggle https://www.kaggle.com/c/hw1-wine-goodness-cse512-spr18/data
